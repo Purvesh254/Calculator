@@ -6,7 +6,8 @@ This project is a simple calculator built using HTML, CSS, and JavaScript. It is
 
 <h2>Usage</h2>
 
-To use the calculator, simply click on the buttons to input your numbers and operators. The result of your calculation will be displayed on the screen.
+<p>To use the calculator, simply click on the buttons to input your numbers and operators. The result of your calculation will be displayed on the screen.</p>
+<b>Live Demo : </b>https://calculatorpage.netlify.app/
 
 <h2>Technologies Used</h2>
 <ul>
